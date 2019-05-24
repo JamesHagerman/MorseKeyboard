@@ -1,5 +1,7 @@
 # MorseKeyboard
 
+*Work In Progress!*
+
 The plan is for this to be a super simple Morse code input method for Android devices with tiny screens.
 
 The first target device will be the KingWear KW88 Android watch. It's cheap, works well enough, but has a garbage keyboard.
